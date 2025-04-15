@@ -23,6 +23,13 @@ integral role in the Caskade programming language.
 Notes:
 
 Caskade's purpose is to use this low-level boolean logic as the foundational interpretation of binary, which can then be compiled
-and used by other programming languages for near-instant to instant results.
+and used by other programming languages for instant results.
 
-This allows for any computer, no matter how old, to become a quantum computer.
+This boolean logic can be used in different ways for any computational requirement to achieve the same end result while allowing 
+for near-instant speeds, and when fully-optimized, instant speeds.
+
+Pre-existing software of any programming language can already change their existing code to use this method and near-fully optimize speeds
+while drastically cutting server costs and energy usage.
+
+Once I have completed the Caskade programming language and compilers, every computer in the world, no matter how old, will become
+a quantum computer.
