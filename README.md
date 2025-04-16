@@ -10,6 +10,7 @@ rather than the traditional sense of boolean.
 The tests I ran were around the seven second mark to run 340 quinvigintillion operations, but I wanted instant results,
 which meant that the boolean operations I was running were not the correct ones meant for the Caskade programming language.
 
+
 V2
 
 The second version ran NOT R0, R1 (switchOn in Caskade) in C to see how it quickly it would run the operations. When I ran the
@@ -18,6 +19,12 @@ for completing 340 quinvigintillion operations.
 
 Version two confirms that that NOT R0, R1 (switchOn in Caskade) is one of the boolean (true or false) operations that will play an
 integral role in the Caskade programming language.
+
+
+V3
+
+The third version ran NOT R0, R1 (switchOn in Caskade) in C again, but running one googolplex of operations, and with 100 tests run, I was 
+able to achieve an average completion time of a googolplex of operations in 10.32 microseconds.
 
 
 Notes:
